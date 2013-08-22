@@ -1,4 +1,4 @@
-Cloud Adventure
+﻿Cloud Adventure
 ===============
 
 Copyright
@@ -27,7 +27,7 @@ This sample application is not an official Google product.
 
 Summary
 -------
-Cloud Adventure is a mobile game application built entirely upon Google’s Cloud Platform. This package include the App Engine backend code, which exposes endpoints that the Android client will call. The setup instructions in this README are the same as the ones you will find in the corresponding Android client package. You will need both packages for this sample to work.
+Cloud Adventure is a mobile game application built entirely upon Google’s Cloud Platform. This package includes the App Engine backend code, which exposes endpoints that the Android client will call. The setup instructions in this README are the same as the ones you will find in the corresponding Android client package. You will need both packages for this sample to work.
 
 Supported Components
 --------------------
@@ -43,15 +43,15 @@ Android
 Downloads
 ---------
 
-1) Make sure you have Java installed.
-2) Download and set up [Eclipse] (http://www.eclipse.org/downloads/). This sample application was built with Eclipse 3.8, but later versions are fine.
-3) Download the [App Engine Java SDK] (http://googleappengine.googlecode.com/files/appengine-java-sdk-1.8.0.zip)
-4) Download the [Google Plugin for Eclipse] (https://developers.google.com/eclipse/docs/getting_started) for your IDE version. Set it up using the instructions on that page.
-5) Download the [ADT Plugin] (http://developer.android.com/tools/sdk/eclipse-adt.html). Set it up using the instructions on that page. Note: upon Eclipse restart, you may see a dialog saying that there is no Android SDK installed. If you cancel that dialog, you should see another one just below it that will prompt you to install the Android SDK.
+* Make sure you have Java installed.
+* Download and set up [Eclipse] (http://www.eclipse.org/downloads/). This sample application was built with Eclipse 3.8, but later versions are fine.
+* Download the [App Engine Java SDK] (http://googleappengine.googlecode.com/files/appengine-java-sdk-1.8.0.zip)
+* Download the [Google Plugin for Eclipse] (https://developers.google.com/eclipse/docs/getting_started) for your IDE version. Set it up using the instructions on that page.
+* Download the [ADT Plugin] (http://developer.android.com/tools/sdk/eclipse-adt.html). Set it up using the instructions on that page. Note: upon Eclipse restart, you may see a dialog saying that there is no Android SDK installed. If you cancel that dialog, you should see another one just below it that will prompt you to install the Android SDK.
 
 Download the following sample code:
-[Android client zip file] (TODO correct link once released)
-[App Engine backend zip file] (TODO correct link once released)
+* [Android client zip file] (https://github.com/GoogleCloudPlatform/solutions-cloud-adventure-sample-android-client)
+* [App Engine backend zip file] (https://github.com/GoogleCloudPlatform/solutions-cloud-adventure-sample-backend-java)
 
 
 Creating and Setting up Projects
